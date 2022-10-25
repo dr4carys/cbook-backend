@@ -1,4 +1,4 @@
-<b><h3>#HANGRY TEST</h3></b>
+<b><h3>#how to run</h3></b>
 
 #PREREQUISITES
 <br> node js
@@ -6,7 +6,7 @@
 
 #HOW TO RUN
 <br/>1.npm install
-<br/>2.npm run start
+<br/>2.npm run debug
 
 #POSTMAN LINK
 <br/> RUN on port 3000
