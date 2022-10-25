@@ -5,6 +5,7 @@
 <br> postman to call the API 
 
 #HOW TO RUN
+<br/>0.load SQL dump
 <br/>1.npm install
 <br/>2.npm run debug
 
